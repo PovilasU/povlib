@@ -1,0 +1,1 @@
+// This is Povilas js library to explore js world created at 7/10/2023
